@@ -1,67 +1,102 @@
-### Hi there 👋 I'm Shreyanshu Kumar
+# Hi, I'm Shreyanshu Kumar
 
-I'm a Frontend Developer 🚀 and currently learning Backend development.
-I build clean, responsive web apps and aim to become a Full-Stack Engineer.
+Frontend Developer focused on building scalable web applications, real-time systems, and modern user experiences using React, Next.js, and TypeScript.
 
----
-
-🧠   Currently working on:
-
-* 🚀 Building modern **React applications**
-* 🌐 Learning **Backend (Node.js, Express, APIs)**
-* 🤖 Exploring full-stack development with MERN
-
-📌   Previously built:
-
-* 🛠 Multiple **frontend UI projects**
-* 📦 Responsive web apps using **React & Tailwind**
+Currently working as a Frontend Developer Intern at Campus Pull and passionate about creating high-performance products that solve real-world problems.
 
 ---
 
-💻  Tech Stack
+## About Me
 
-`React.js` · `JavaScript` · `HTML` · `CSS` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB`
-`Git` · `GitHub` · `VS Code` · `C++`
-
----
-
-🚀  Career Snapshot
-
-* 💻 Frontend Developer focused on UI/UX
-* 🌱 Currently transitioning into **Backend Development**
-* ⚛️ Building projects using **React ecosystem**
-* 🎯 Goal: Become a **Full Stack Software Engineer**
+- Frontend Developer with hands-on experience in production-grade web applications
+- Smart India Hackathon 2025 Winner
+- 3× Hackathon Winner
+- OCI Certified DevOps Professional
+- Strong interest in Full-Stack Development, Cloud Infrastructure, and AI-powered products
+- Experienced in building responsive, accessible, and performance-optimized applications
 
 ---
 
----
+## Current Focus
 
-🤖 Learning & Projects
-I actively build projects and improve my skills:
-
-* 🔁 Frontend Projects – Responsive UI & components
-* 🔁 MERN Stack Apps – Full-stack learning projects
-
-> 🧠 Focused on improving problem-solving, clean code, and real-world development
+- Building scalable React and Next.js applications
+- Exploring advanced backend development with Node.js and Express.js
+- Learning system design and cloud-native development
+- Improving problem-solving and software engineering skills
+- Working with real-time applications using WebSocket and Socket.IO
 
 ---
 
-📈 GitHub Stats  
-&nbsp;![](https://komarev.com/ghpvc/?username=Shreyanshu-Gupta&color=brightgreen)
+## Tech Stack
+
+### Frontend
+`React.js` `Next.js` `JavaScript` `TypeScript` `Redux` `Tailwind CSS` `HTML5` `CSS3`
+
+### Backend
+`Node.js` `Express.js` `REST APIs` `WebSocket` `Socket.IO` `JWT` `Passport.js`
+
+### Database
+`MongoDB` `PostgreSQL` `SQL`
+
+### Cloud & DevOps
+`Oracle Cloud Infrastructure` `GitHub Actions` `Kubernetes` `CI/CD`
+
+### Tools
+`Git` `GitHub` `Postman` `VS Code`
+
+---
+
+## Career Snapshot
+
+- Frontend Developer Intern at Campus Pull
+- Built CMS platforms, real-time chat systems, and role-based access solutions
+- Experienced in performance optimization and SEO-focused development
+- Developed responsive, cross-browser compatible user interfaces
+- Contributing to production applications used by students and professionals
+
+---
+
+## Achievements
+
+- Smart India Hackathon 2025 Winner
+- Hackstreet 2024 – 1st Place
+- HackArCode 2024 Winner
+- Oracle Cloud Infrastructure 2025 Certified DevOps Professional
+- Anthropic Claude Code in Action Certified
+
+---
+
+## Education
+
+**B.Tech – Information Technology**  
+ABES Institute of Technology, Ghaziabad  
+2023 – 2027
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shreyanshu-Gupta&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshu-Gupta&layout=compact&hide_border=true" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyanshu-Gupta&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyanshu-Gupta&theme=github" />
+</p>
+
 ---
 
-📫  Reach out to collaborate, chat, or brainstorm
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/shreyanshu-gupta)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat\&logo=twitter)](https://x.com/HIM4NSHUGUPT4)
+- LinkedIn: https://linkedin.com/in/shreyanshu-gupta
+- GitHub: https://github.com/Shreyanshu-Gupta
+- Email: work.shreyanshu@gmail.com
 
 ---
 
-🌱 Always learning, building, and growing.
-📌 Check my [projects](https://github.com/Shreyanshu-Gupta?tab=repositories)
+Focused on building impactful software, learning continuously, and contributing to meaningful products.
