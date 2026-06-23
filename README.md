@@ -30,19 +30,31 @@ Currently working as a Frontend Developer Intern at Campus Pull and passionate a
 ## Tech Stack
 
 ### Frontend
-`React.js` `Next.js` `JavaScript` `TypeScript` `Redux` `Tailwind CSS` `HTML5` `CSS3`
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
-`Node.js` `Express.js` `REST APIs` `WebSocket` `Socket.IO` `JWT` `Passport.js`
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
 
 ### Database
-`MongoDB` `PostgreSQL` `SQL`
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ### Cloud & DevOps
-`Oracle Cloud Infrastructure` `GitHub Actions` `Kubernetes` `CI/CD`
 
-### Tools
-`Git` `GitHub` `Postman` `VS Code`
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 ---
 
@@ -66,6 +78,27 @@ Currently working as a Frontend Developer Intern at Campus Pull and passionate a
 
 ---
 
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=npmshrey&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmshrey&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=npmshrey&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npmshrey&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=npmshrey&theme=github_dark" />
+</p>
+
+---
+
 ## Education
 
 **B.Tech – Information Technology**  
@@ -74,29 +107,22 @@ ABES Institute of Technology, Ghaziabad
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshu-Gupta&layout=compact&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyanshu-Gupta&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyanshu-Gupta&theme=github" />
-</p>
-
----
-
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/shreyanshu-gupta
-- GitHub: https://github.com/Shreyanshu-Gupta
-- Email: work.shreyanshu@gmail.com
+<p align="left">
+<a href="https://www.linkedin.com/in/shreyanshu-gupta">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:work.shreyanshu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/npmshrey">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
-Focused on building impactful software, learning continuously, and contributing to meaningful products.
+> Building scalable products, solving real-world problems, and continuously learning.
