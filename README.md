@@ -125,4 +125,4 @@ ABES Institute of Technology, Ghaziabad
 
 ---
 
-> Building scalable products, solving real-world problems, and continuously learning.
+> Building scalable products, solving real-world problems, and continuously learning...
