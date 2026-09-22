@@ -1,26 +1,27 @@
 # Hi, I'm Shreyanshu Kumar
 
-Frontend Developer focused on building scalable web applications, real-time systems, and modern user experiences using React, Next.js, and TypeScript.
+Full Stack Developer focused on building scalable web applications, AI-powered products, and modern user experiences using React, Next.js, TypeScript, and Node.js.
 
-Currently working as a Frontend Developer Intern at Campus Pull and passionate about creating high-performance products that solve real-world problems.
+Currently working as a Full Stack AI Engineer at DigiBuggy (DGB India), building AI chatbot systems, enterprise web platforms, and IT infrastructure solutions.
 
 ---
 
 ## About Me
 
-- Frontend Developer with hands-on experience in production-grade web applications
+- Full Stack Developer with hands-on experience across frontend, backend, and AI-powered product development
 - Smart India Hackathon 2025 Winner
 - 3× Hackathon Winner
 - OCI Certified DevOps Professional
 - Strong interest in Full-Stack Development, Cloud Infrastructure, and AI-powered products
 - Experienced in building responsive, accessible, and performance-optimized applications
+- Works across AI chatbot prompt engineering, website development, and enterprise IT infrastructure
 
 ---
 
 ## Current Focus
 
-- Building scalable React and Next.js applications
-- Exploring advanced backend development with Node.js and Express.js
+- Building scalable React and Next.js applications with Node.js and Express.js backends
+- Designing and engineering system prompts for AI chatbots and sales assistants
 - Learning system design and cloud-native development
 - Improving problem-solving and software engineering skills
 - Working with real-time applications using WebSocket and Socket.IO
@@ -60,7 +61,8 @@ Currently working as a Frontend Developer Intern at Campus Pull and passionate a
 
 ## Career Snapshot
 
-- Frontend Developer Intern at Campus Pull
+- Full Stack AI Engineer at DigiBuggy (DGB India)
+- Design and engineer system prompts for AI sales and support chatbots
 - Built CMS platforms, real-time chat systems, and role-based access solutions
 - Experienced in performance optimization and SEO-focused development
 - Developed responsive, cross-browser compatible user interfaces
