@@ -1,130 +1,55 @@
-# Hi, I'm Shreyanshu Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:16161a,60:2e2659,100:7f5af0&text=Shreyanshu&fontSize=80&fontColor=fffffe&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20AI%20Engineer&descSize=22&descAlignY=56" width="100%" />
 
-Full Stack Developer focused on building scalable web applications, AI-powered products, and modern user experiences using React, Next.js, TypeScript, and Node.js.
+<div align="center">
 
-Currently working as a Full Stack AI Engineer at DigiBuggy (DGB India), building AI chatbot systems, enterprise web platforms, and IT infrastructure solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=2CB67D&center=true&vCenter=true&width=640&lines=Full+Stack+AI+Engineer+%40+DigiBuggy;Building+AI+chatbots+%26+sales+assistants;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;code.+build.+break.+fix.+repeat." />
 
----
+<br/>
 
-## About Me
+<a href="https://www.linkedin.com/in/shreyanshu-gupta"><img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:work.shreyanshu@gmail.com"><img src="https://img.shields.io/badge/Email-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/npmshrey"><img src="https://img.shields.io/badge/GitHub-242629?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=npmshrey&style=for-the-badge&color=242629&label=VIEWS" />
 
-- Full Stack Developer with hands-on experience across frontend, backend, and AI-powered product development
-- Smart India Hackathon 2025 Winner
-- 3× Hackathon Winner
-- OCI Certified DevOps Professional
-- Strong interest in Full-Stack Development, Cloud Infrastructure, and AI-powered products
-- Experienced in building responsive, accessible, and performance-optimized applications
-- Works across AI chatbot prompt engineering, website development, and enterprise IT infrastructure
+</div>
 
----
+<br/>
 
-## Current Focus
-
-- Building scalable React and Next.js applications with Node.js and Express.js backends
-- Designing and engineering system prompts for AI chatbots and sales assistants
-- Learning system design and cloud-native development
-- Improving problem-solving and software engineering skills
-- Working with real-time applications using WebSocket and Socket.IO
-
----
-
-## Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql)
-
-### Cloud & DevOps
-
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
----
-
-## Career Snapshot
-
-- Full Stack AI Engineer at DigiBuggy (DGB India)
-- Design and engineer system prompts for AI sales and support chatbots
-- Built CMS platforms, real-time chat systems, and role-based access solutions
-- Experienced in performance optimization and SEO-focused development
-- Developed responsive, cross-browser compatible user interfaces
-- Contributing to production applications used by students and professionals
-
----
-
-## Achievements
-
-- Smart India Hackathon 2025 Winner
-- Hackstreet 2024 – 1st Place
-- HackArCode 2024 Winner
-- Oracle Cloud Infrastructure 2025 Certified DevOps Professional
-- Anthropic Claude Code in Action Certified
-
----
-
-## GitHub Analytics
+<h3 align="center">⚡ Tech I build with</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=npmshrey&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmshrey&layout=compact&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,redux,tailwind,kubernetes,githubactions&theme=dark&perline=12" />
+</p>
+
+<h3 align="center">🏆 Wins</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart_India_Hackathon_2025-Winner-7F5AF0?style=for-the-badge&labelColor=242629" />
+  <img src="https://img.shields.io/badge/Hackstreet_2024-1st_Place-2CB67D?style=for-the-badge&labelColor=242629" />
+  <img src="https://img.shields.io/badge/HackArCode_2024-Winner-7F5AF0?style=for-the-badge&labelColor=242629" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-DevOps_Professional-2CB67D?style=for-the-badge&logo=oracle&logoColor=white&labelColor=242629" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-7F5AF0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=242629" />
+</p>
+
+<h3 align="center">📊 Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=npmshrey&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=7F5AF0&icon_color=2CB67D&text_color=FFFFFE&ring_color=7F5AF0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npmshrey&layout=compact&hide_border=true&bg_color=0d1117&title_color=7F5AF0&text_color=FFFFFE" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=npmshrey&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npmshrey&hide_border=true&background=0d1117&ring=7F5AF0&fire=2CB67D&currStreakNum=FFFFFE&currStreakLabel=2CB67D&sideNums=FFFFFE&sideLabels=7F5AF0&dates=94A1B2" />
 </p>
+
+<h3 align="center">🐍 Watch my contributions get eaten</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npmshrey&theme=github-dark&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/npmshrey/npmshrey/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/npmshrey/npmshrey/output/snake.svg" width="100%" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=npmshrey&theme=github_dark" />
-</p>
-
----
-
-## Education
-
-**B.Tech – Information Technology**  
-ABES Institute of Technology, Ghaziabad  
-2023 – 2027
-
----
-
-## Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shreyanshu-gupta">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:work.shreyanshu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/npmshrey">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-> Building scalable products, solving real-world problems, and continuously learning.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7f5af0,40:2e2659,100:16161a&section=footer" width="100%" />
